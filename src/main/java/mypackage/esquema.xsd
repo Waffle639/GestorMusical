@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Definició de l'element 'playlisFts' que conté una o més 'playlist' -->
+    <xs:element name="playlisFts">
+        <xs:complexType>
+            <xs:sequence>
+                <!-- L'element 'playlist' es pot repetir múltiples vegades -->
+                <xs:element name="playlist" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <!-- Element 'nombre' que és una cadena de text -->
+                            <xs:element name="nombre" type="xs:string"/>
+
+                            <!-- L'element 'canso' es pot repetir múltiples vegades -->
+                            <xs:element name="canso" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <!-- Subelements de 'canso' -->
+                                        <xs:element name="autor" type="xs:string"/>
+                                        <xs:element name="titol" type="xs:string"/>
+                                        <xs:element name="arxiu" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
