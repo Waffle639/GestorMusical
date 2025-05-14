@@ -23,8 +23,22 @@ git clone https://github.com/Waffle639/GestorMusical
 ```
 Ejecucion de codigo en terminal
 ```bash
-java -jar gestormusica.jar
+cd ./target
+java -jar gestormusica-0.0.1-SNAPSHOT.jar
 ```
+## 📸 Capturas de Pantalla
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0d27a7b5-cf5d-431b-9bad-f8827cc97f90" alt="Menú Principal del Gestor Musical" width="80%" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <p><em>Menú principal con todas las opciones disponibles</em></p>
+</div>
+
+### Funcionalidad de Reproducción
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0dae3102-e822-4192-a3c5-69a9d123e658" alt="Reproductor de Música en Acción" width="80%" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <p><em>Interfaz del reproductor mostrando la canción actual y controles</em></p>
+</div>
+
 ## 📊 Formatos Soportados
 
 | Tipo        | Formato | Descripción                     | Ejemplo de Uso                  |
