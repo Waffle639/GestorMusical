@@ -27,6 +27,7 @@ cd ./target
 java -jar gestormusica-0.0.1-SNAPSHOT.jar
 ```
 ## 📸 Capturas de Pantalla
+### Interfaz Principal
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0d27a7b5-cf5d-431b-9bad-f8827cc97f90" alt="Menú Principal del Gestor Musical" width="80%" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p><em>Menú principal con todas las opciones disponibles</em></p>
