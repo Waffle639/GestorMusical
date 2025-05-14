@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb7c7665-6488-44ac-8c39-f7e652482805" name="Changes" comment="" />
+    <list default="true" id="fb7c7665-6488-44ac-8c39-f7e652482805" name="Changes" comment="projecte">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlaylisFts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PlaylisFts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gestormusica/Biblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gestormusica/Biblioteca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PlaylisFts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cansons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cansos.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gestormusica/Biblioteca$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gestormusica/Biblioteca$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gestormusica/Biblioteca.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gestormusica/Biblioteca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gestormusica-0.0.1-SNAPSHOT-shaded.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gestormusica-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/gestormusica-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-gestormusica-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-gestormusica-0.0.1-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +34,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Waffle639&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Waffle639/GestorMusical&quot;,
+    &quot;accountId&quot;: &quot;0b0f810e-8126-46ad-88a4-e88bc1c1c097&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/mypackage/ObjectFactory.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/mypackage/PlaylisFts.java" root0="FORCE_HIGHLIGHTING" />
@@ -32,26 +61,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Biblioteca.executor": "Run",
-    "Application.GestorMusica.executor": "Run",
-    "Maven.gestormusica [clean].executor": "Run",
-    "Maven.gestormusica [package].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Jofre/Documents/Programacion/BA3/TeoriaJAXB_1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Biblioteca.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GestorMusica.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gestormusica [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gestormusica [package].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jofre/Documents/Programacion/BA3/GestorMusical&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jofre\Documents\Programacion\BA3\GestorMusical" />
@@ -86,10 +117,36 @@
       <workItem from="1746205604936" duration="8013000" />
       <workItem from="1746368559766" duration="7842000" />
       <workItem from="1746383875996" duration="8373000" />
+      <workItem from="1747132911620" duration="1282000" />
+      <workItem from="1747203112647" duration="305000" />
     </task>
+    <task id="LOCAL-00001" summary="projecte">
+      <option name="closed" value="true" />
+      <created>1747132970768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747132970769</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="projecte" />
+    <option name="LAST_COMMIT_MESSAGE" value="projecte" />
   </component>
 </project>

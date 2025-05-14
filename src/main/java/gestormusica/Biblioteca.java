@@ -161,6 +161,9 @@ public class Biblioteca {
                     }
                     System.out.println("0 - Sortir");
                     int opcioCansoE = Utils.llegeixEnterRang(0, totesCansons.size());
+                    if (opcioCansoE == 0) {
+                        break;
+                    }
                     String rutaArxiuE = totesCansons.get(opcioCansoE - 1).getArxiu();
                     String titolE = Utils.demanaText("Introdueix el nou titol");
                     String autorE = Utils.demanaText("Introdueix el nou autor");
